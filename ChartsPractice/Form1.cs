@@ -30,7 +30,7 @@ namespace ChartsPractice
 			
 				x = i;
 				
-				y=Math.Pow(x,2); // Esto es y=x^2
+				y=Math.Pow(x,3); // Esto es y=x^2
 				chart1.Series["Series1"].Color = Color.Black;
 				chart1.Series["Series1"].Points.AddXY(x,y);
 			
@@ -53,10 +53,10 @@ namespace ChartsPractice
 
 
 			//En este for se grafica el area sombreada
-			for(double i=0.0; i<4.8; i+=0.1) // la variable i son los limites. donde empieza y donde termina
+			for(double i=-2.0; i<0; i+=0.1) // la variable i son los limites. donde empieza y donde termina
 			{
 				 xA= i; 
-				yA = xA*xA; //Esta misma ecuación es la primera que esta en el for de graficar la ecuación lo que quiere decir que cada vez que querramos el area sombreada tendremos que cambiar aquí también
+				yA = xA*xA*xA; //Esta misma ecuación es la primera que esta en el for de graficar la ecuación lo que quiere decir que cada vez que querramos el area sombreada tendremos que cambiar aquí también
 
 				chart1.Series["Series4"].Points.AddXY(xA, yA);  //Aqui se grafica el area sombreada.
 
