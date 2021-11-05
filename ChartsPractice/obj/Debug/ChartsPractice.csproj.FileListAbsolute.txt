@@ -1,0 +1,11 @@
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\bin\Debug\ChartsPractice.exe.config
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\bin\Debug\ChartsPractice.exe
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\bin\Debug\ChartsPractice.pdb
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.csproj.AssemblyReference.cache
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.Form1.resources
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.Properties.Resources.resources
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.csproj.GenerateResource.cache
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.csproj.CoreCompileInputs.cache
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.exe
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.pdb
+C:\Users\Quezada\source\repos\ChartsPractice\ChartsPractice\obj\Debug\ChartsPractice.PictureBoxGraphics.resources
